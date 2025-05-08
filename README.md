@@ -21,10 +21,10 @@
 - Fatal errors peaked in **March and May**
 
 ### 🧠 Main Findings(Employee Performance/Supervisor):
--William's team recording the most tasks 
--Jack’s team maintains a strong performance with low defects and fatal errors while handling a reasonable workload. This suggests that productivity
- improves when task volume remains manageable
--Maude Rowland achieved the lowest fatal error count while maintaining a strong task completion rate, making her the top performer based on error reduction
+- William’s team has the highest task count, yet Mildred stands out as the hardest-working employee
+- Jack’s team maintains a strong performance with low defects and fatal errors while handling a reasonable workload. This suggests that productivity
+  improves when task volume remains manageable
+- Maude Rowland achieved the lowest fatal error count while maintaining a strong task completion rate, making her the top performer based on error reduction
 
 ## ⚙️ Tools Used
 - Power BI (dashboard creation, data modeling,DAX measures)
