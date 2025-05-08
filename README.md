@@ -39,3 +39,6 @@ The original `.xls` file had ~460 blank rows when I tried to import it to Power 
 - `dashboard1.jpg` → Full visual layout of Overall Performance
 - `dashboard2.jpg` → Full visual layout of Employee Performance
 
+## 🔗 View the Report Image
+![Overall Performance Preview](./visuals/dashboard_1.jpg)
+![Employee Preview](./visuals/dashboard_2.jpg)
